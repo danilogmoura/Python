@@ -1,0 +1,20 @@
+print("Tabela verdade AND")
+print(True and True)
+print(True and False)
+print(False and True)
+
+print("Tabela verdade XOR")
+print(True != True)
+print(True != False)
+print(False != True)
+print(False != False)
+
+print("Tabela verdade OR")
+print(True or True)
+print(True or False)
+print(False or True)
+print(False or True)
+
+print("Tabela verdade NOT")
+print(not True)
+print(not False)
